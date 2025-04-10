@@ -1,0 +1,2 @@
+no tuve problemas con los ejercicios del 1 al 5, el ejercicio 6 le tuve que pedir ayuda a chat gpt porque no sabia como plantear el problema b) y c), de todas maneras creo que lo hizo bien la IA pero creo que tiene un error que no supe resolver.
+cuando yo coloco la cantidad de triangulos, al poner todos los lados iguales, el tipo de triangulo que posee menor cantidad me sale isosceles cuando no deberia ser asi.
